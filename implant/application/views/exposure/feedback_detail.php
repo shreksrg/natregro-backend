@@ -6,7 +6,7 @@ CView::show('layout/header_edit1');
     <input type="hidden" name="id" value="<?= $feedback['id'] ?>"/>
 
     <div class="addContent">
-        <div class="crumbs">当前位置：内容 > 查看内容</div>
+        <div class="crumbs">当前位置：反馈投诉 > 查看内容</div>
 
         <a title="展开与关闭" class="r-close" hidefocus="hidefocus" style="outline-style: none; outline-width: medium;"
            id="RopenClose" href="javascript:;"><span class="hidden">展开</span></a>
@@ -17,17 +17,10 @@ CView::show('layout/header_edit1');
                 <div class="content pad-6">
                     <table width="100%" cellspacing="0" class="table_form">
                         <tbody>
-                        <tr>
-                            <th width="80"><font color="red">*</font> 栏目</th>
-                            <td><input type="hidden" name="info[catid]" value="4">招贤纳士 <a href='javascript:;'
-                                                                                          onclick="omnipotent('selectid','?m=content&c=content&a=add_othors&siteid=1','同时发布到其他栏目',1);return false;"
-                                                                                          style='color:#B5BFBB'>[同时发布到其他栏目]</a>
-                                <ul class='list-dot-othors' id='add_othors_text'></ul>
-                            </td>
-                        </tr>
+
                         <tr>
                             <th width="80"><font color="red">*</font> 姓名</th>
-                            <td><input id="title" type="text" style="width:400px;" name="position"
+                            <td><input readonly id="title" type="text" style="width:400px;" name="position"
                                        value="<?= $feedback['name'] ?>"
                                        style="color:" class="measure-input">
                             </td>
@@ -35,14 +28,14 @@ CView::show('layout/header_edit1');
 
                         <tr>
                             <th width="80"><font color="red">*</font> 联系方式</th>
-                            <td><input id="department" type='text' name='department' value='<?= $feedback['phone'] ?>'
+                            <td><input readonly id="department" type='text' name='department' value='<?= $feedback['phone'] ?>'
                                        style='width:280px'
                                        class='input-text'>
                             </td>
                         </tr>
                         <tr>
                             <th width="80"><font color="red">*</font>反馈内容</th>
-                            <td><textarea name="desc" id="content" boxid="content"><?= $feedback['content'] ?></textarea>
+                            <td><textarea readonly style="width:640px; height: 258px" name="desc" id="content"   boxid="content"><?= $feedback['content'] ?></textarea>
                             </td>
                         </tr>
 

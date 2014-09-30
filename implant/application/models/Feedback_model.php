@@ -25,7 +25,7 @@ class Feedback_model extends App_model
 
     public function detail($id)
     {
-        $sql = "select * from nato_jobs where isdel=0 and id=$id limit 1";
+        $sql = "select * from nato_feedback where isdel=0 and id=$id limit 1";
         $query = $this->db->query($sql);
         return $query->row_array();
     }
