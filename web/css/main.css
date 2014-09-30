@@ -1,0 +1,116 @@
+/*------------------------------------------------------------------------
+ * Copyright (c) 2014 hailiang All rights reserved. by Jackal
+------------------------------------------------------------------------*/
+
+/*主色 绿 009740*/
+/*主色 深绿 0b7d3a*/
+/*高亮色 黄 fff000*/
+/*高亮色 橘红 ff2a00*/
+
+
+/* comon */
+*{margin:0;padding:0}
+li{list-style-type:none;}
+a{color:#fff;text-decoration:none}
+a:hover{color:#fff000}
+h2{font-size:30px;}
+h1{font-size:30px;}
+/*html ,body {height:100%;}*/
+body{font-size:12px;font-family:"Microsoft Yahei";color:#333}
+li{list-style-type:none;list-style-position:outside}
+/* header */
+.header{position:absolute;width:100%;height:60px;left:0;top:0;background:#009740 }
+.header a.logo{display:inline-block;width:20%;height:60px;float:left;background:url(../img/logo.png) no-repeat 20px 10px;}
+#nav{float:left;height:60px;line-height:60px;margin:0}
+#nav li {float:left;position:relative;}
+#nav li ul li a{width:120px;height:45px;line-height:45px;padding-right:20px}
+#nav a {width:120px;color:#fff;font-size:14px;text-decoration:none;display:block;text-align:center}
+/* selected menu element */
+#nav .current a, #nav li:hover > a {background:#0b7d3a;color:#fff000;}
+/* sublevels */
+#nav ul li:hover a, #nav li:hover li a {background:#0b7d3a;border:none;color:#fff;}
+#nav ul li a:hover {background:#fff000; color:#000;}
+/* drop down */
+#nav li:hover > ul {opacity:1;visibility:visible;}
+#nav ul {opacity:0;visibility:hidden;padding:0;width:140px;position:absolute;background:#0b7d3a;
+	-moz-transition:opacity .25s linear, visibility .1s linear .1s;
+    -webkit-transition:opacity .25s linear, visibility .1s linear .1s;
+    -o-transition:opacity .25s linear, visibility .1s linear .1s;
+    transition:opacity .25s linear, visibility .1s linear .1s;
+}
+#nav ul li {float:none;margin:0;}
+#nav ul ul {left:140px;top:0px;}
+
+/* footer */
+.footer{position:absolute;width:100%;height:60px;background:#009740;left:0;bottom:0;}
+.footer .leftbar{width:55%;height:40px;margin:10px 0 0 20px;float:left;line-height:40px;}
+.footer .leftbar a{display:inline-block;padding-left:55px;margin-right:20px;font-size:14px;-moz-transition:all .4s ease-out .1s;-webkit-transition:all .4s ease-out .1s;transition:all .4s ease-out .1s;}
+.footer .leftbar a.wx{height:40px;background:url(../img/icon_wx.png) no-repeat 0 4px;}
+.footer .leftbar a.wb{height:40px;background:url(../img/icon_wb.png) no-repeat 0 4px;}
+.footer .leftbar a.app{height:40px;background:url(../img/icon_app.png) no-repeat 0 4px;}
+.footer .leftbar a.web{width:100px;height:40px;background:url(../img/icon_web.png) no-repeat 0 4px;}
+.footer .rightbar{width:40%;height:44px;margin:8px 5px 0 0;float:right;text-align:right;line-height:22px;}
+.footer .rightbar a{display:inline-block;margin:0 8px;padding:0 5px;}
+.footer .rightbar a.cur{background:#fff000;border-radius:3px;color:#0b7d3a}
+.footer .rightbar span{display:block;color:#fff;clear:both;margin-right:13px;}
+
+/*index page*/
+.indextitle{position:relative;width:650px;height:272px;margin:210px 0 0 70px;background:url(../img/index_title.png) no-repeat;}
+.indextitle a{position:absolute;display:block;width:238px;height:52px;bottom:0;background:#fff000;color:#333;border-radius:10px;font-size:20px;line-height:52px;text-align:center;-moz-transition:all .4s ease-out .1s;-webkit-transition:all .4s ease-out .1s;transition:all .4s ease-out .1s;}
+.indextitle a:hover{background:#009740;color:#fff}
+.side{position:absolute;right:0;top:60px;width:25%;height:600px;overflow:scroll}
+
+.side a{display:block;width:100%;height:auto;clear:both;margin-top:1px}
+.side a img{width:100%;height:auto;margin:0;padding:0}
+
+/*exposure page*/
+.exposurecont{position:absolute;left:0;top:30%;width:80%;overflow:hidden;padding:80px 10%;background:#fff url(../img/exposurecontbg.jpg) no-repeat;}
+.exposurecont .leftbox{width:30%;float:left;}
+.exposurecont .leftbox h2{text-shadow:3px 3px 3px rgba(0,0,0, .7); /*some css3*/-moz-text-shadow:3px 3px 3px rgba(0,0,0, .7);-webkit-text-shadow:3px 3px 3px rgba(0,0,0, .7);text-shadow:3px 3px 3px rgba(255,255,255, 0.7);}
+.exposurecont .leftbox p{margin-top:20px;font-size:14px;line-height:26px}
+.exposurecont .leftbox p a{color:#009740;text-decoration:underline}
+.exposurecont .leftbox p span{color:#ff2a00}
+.exposurecont .rightbox{width:60%;float:right;}
+
+/*wx/app page*/
+.wxmenu{position:absolute;width:20%;left:4%;top:18%}
+.wxmenu h1{margin-bottom:40px}
+.wxmenu a{width:80%;height:40px;font-size:14px;border:1px #ccc solid;display:block;clear:both;margin:18px 0 0;line-height:40px;text-align:center;color:#333}
+.wxmenu a.cur{background:#009740;color:#fff}
+.wxcont{position:absolute;left:35%;top:28%;width:600px;height:240px;border:1px #ccc solid;box-shadow:0px 0px 40px rgba(0,0,0, .2);}
+.wxcont .code{width:200px;height:240px;border-right:1px #ccc solid;float:left}
+.wxcont .code img{width:160px;height:auto;padding:20px 20px 10px 20px}
+.wxcont .code span{width:100%;color:#999999;text-align:center;display:block}
+.wxcont .desc{width:360px;height:260px;float:right;line-height:26px}
+.wxcont .desc h2{width:100%;display:block;margin:24px 0;color:#009740;}
+.appcont{position:absolute;left:40%;top:20%;width:547px;height:400px;background:url(../img/appdl.png) no-repeat;}
+
+/*news page*/
+.newscont{position:absolute;left:0;top:20%;width:100%;height:287px;background:#fff;padding:80px 0;background:url(../img/newscontbg.png) no-repeat;}
+.newscont .left_title{width:18%;float:left;margin-left:5%}
+.newscont .left_title h2{width:100%;margin-bottom:30px}
+.newscont .left_title p{font-size:14px;line-height:26px;}
+.newscont .middle_silder{width:302px;float:left;margin:0 4%;overflow:hidden}
+.newscont .middle_silder img{width:300px;height:150px}
+.newscont .middle_silder a{color:#333}
+.newscont .middle_silder p{width:270px;padding:15px;line-height:18px;background:#fff}
+.newscont .middle_silder span{width:270px;font-weight:bold;clear:both;display:block;line-height:24px;}
+.newscont .right_newslist{width:40%;overflow:hidden;float:left;}
+.newscont .right_newslist a{display:block;width:100%;height:39px;border-bottom:1px #ccc dashed;line-height:38px;color:#333}
+.newscont .right_newslist a:hover{color:#009740}
+.newscont .right_newslist a span{float:right;color:#ccc}
+
+.container { width:300px; height:240px; position:relative;border:1px #ccc solid;}
+.slider li { list-style:none; display:inline;  float:left; position:relative }
+.num {width:54px;height:18px;margin:30px 0 0 133px;}
+.num li { display:inline-block;float: left; width:10px; height:10px; margin:4px;background:#ccc;border-radius:15px;cursor: pointer; overflow: hidden; }
+.num li.on { background:#009740;}
+
+
+.show{display:block}
+
+
+@media only screen and (max-width: 1200px) {
+.newscont .left_title{width:18%;float:left;margin-left:3%}
+.newscont .middle_silder{width:302px;float:left;margin:0 3%;overflow:hidden}
+}

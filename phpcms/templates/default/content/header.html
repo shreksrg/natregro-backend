@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="pragma" content="no-cache">
+            <meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
+                <title>{if isset($SEO['title']) && !empty($SEO['title'])}{$SEO['title']}{/if}{$SEO['site_title']}</title>
+                <meta name="keywords" content="{$SEO['keyword']}">
+                    <meta name="description" content="{$SEO['description']}">
+                        <link rel="stylesheet" type="text/css" href="{CSS_PATH}main.css">
+                            <script src="{JS_PATH}web/jquery.min.js"></script>
+
+                            </head>
+
+                            <body>
+                                {pc:content action="category" catid="0" num="25" siteid="$siteid" order="listorder ASC"}
+                                {/pc}
+
+
+                                
+                                <div class="header">
+                                    <a class="logo" href="index.php" target="_self"></a>
+                                    <ul id="nav">
+
+
+                                        {loop $data $r}
+                                            <?php if(!$r[child]){ ?>
+                                                <li><a href="{$r[url]}"><span>{$r[catname]}</span></a></li>
+                                            <?php }else{ ?>
+                                                <li><a href="{$r[url]}"><span>{$r[catname]}</span></a>
+                                                    <ul class="children">
+
+                                                        {pc:content action="category" catid="$r[catid]" num="25" order="id DESC" return="menu_1"}
+                                                        {/pc}
+                                                        {loop $menu_1 $r1}    
+                                                            <?php if(!$r1[child]){ ?>
+                                                                    <li><a href="{$r1[url]}"><span>{$r1[catname]}</span></a></li>
+                                                            <?php }else{ ?>
+                                                                <li><a href="{$r1[url]}"><span>{$r1[catname]}</span></a>
+                                                                    <ul class="children">
+
+                                                                        {pc:content action="category" catid="$r1[catid]" num="25" order="id DESC" return="menu_2"}
+                                                                        {/pc}
+                                                                        {loop $menu_2 $r2}
+                                                                            <li><a href="{$r2[url]}"><span>{$r2[catname]}</span></a></li>
+                                                                        {/loop}
+                                                                    </ul>
+                                                                </li>
+                                                            <?php } ?>
+                                                        {/loop}
+                                                    </ul>
+
+                                                </li>
+                                            <?php } ?>
+                                        {/loop}    
+
+
+                                        
+                                    </ul>
+                                </div>

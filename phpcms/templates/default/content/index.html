@@ -1,0 +1,18 @@
+{template "content","header"}
+<style>
+body{background:url(statics/images/img/indexbg.jpg) no-repeat center 0;}
+</style>
+<div class="indextitle"><a href="#">搜索明康全产业链 ></a></div>
+<div class="side">
+    
+    {pc:content action="lists" catid="21" num="25" order="id ASC" page="$page"}
+    {/pc}
+    
+    {loop $data $r}
+        <a href="{$r[url]}"><img src="{$r[thumb]}" alt="{$r[title]}"/></a>
+    {/loop}
+    
+    
+	
+</div>
+{template "content","footer"}

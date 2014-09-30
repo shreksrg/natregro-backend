@@ -1,0 +1,76 @@
+[Mon Sep 15 16:10:50 2014] [error] [client 192.168.111.38] PHP Warning:  error_log(/var/www/phpcms/caches/error_log.php): failed to open stream: \xe6\x9d\x83\xe9\x99\x90\xe4\xb8\x8d\xe5\xa4\x9f in /var/www/phpcms/phpcms/libs/functions/global.func.php on line 464
+[Mon Sep 15 16:10:50 2014] [error] [client 192.168.111.38] PHP Warning:  error_log(/var/www/phpcms/caches/error_log.php): failed to open stream: \xe6\x9d\x83\xe9\x99\x90\xe4\xb8\x8d\xe5\xa4\x9f in /var/www/phpcms/phpcms/libs/functions/global.func.php on line 464
+[Mon Sep 15 16:10:50 2014] [error] [client 192.168.111.38] PHP Warning:  error_log(/var/www/phpcms/caches/error_log.php): failed to open stream: \xe6\x9d\x83\xe9\x99\x90\xe4\xb8\x8d\xe5\xa4\x9f in /var/www/phpcms/phpcms/libs/functions/global.func.php on line 464
+[Mon Sep 15 16:10:50 2014] [error] [client 192.168.111.38] PHP Warning:  error_log(/var/www/phpcms/caches/error_log.php): failed to open stream: \xe6\x9d\x83\xe9\x99\x90\xe4\xb8\x8d\xe5\xa4\x9f in /var/www/phpcms/phpcms/libs/functions/global.func.php on line 464
+[Mon Sep 15 16:10:50 2014] [error] [client 192.168.111.38] PHP Warning:  error_log(/var/www/phpcms/caches/error_log.php): failed to open stream: \xe6\x9d\x83\xe9\x99\x90\xe4\xb8\x8d\xe5\xa4\x9f in /var/www/phpcms/phpcms/libs/functions/global.func.php on line 464
+[Mon Sep 15 16:10:50 2014] [error] [client 192.168.111.38] PHP Warning:  error_log(/var/www/phpcms/caches/error_log.php): failed to open stream: \xe6\x9d\x83\xe9\x99\x90\xe4\xb8\x8d\xe5\xa4\x9f in /var/www/phpcms/phpcms/libs/functions/global.func.php on line 464
+[Mon Sep 15 16:10:50 2014] [error] [client 192.168.111.38] PHP Warning:  error_log(/var/www/phpcms/caches/error_log.php): failed to open stream: \xe6\x9d\x83\xe9\x99\x90\xe4\xb8\x8d\xe5\xa4\x9f in /var/www/phpcms/phpcms/libs/functions/global.func.php on line 464
+[Mon Sep 15 16:10:50 2014] [error] [client 192.168.111.38] PHP Warning:  error_log(/var/www/phpcms/caches/error_log.php): failed to open stream: \xe6\x9d\x83\xe9\x99\x90\xe4\xb8\x8d\xe5\xa4\x9f in /var/www/phpcms/phpcms/libs/functions/global.func.php on line 464
+[Mon Sep 15 16:10:50 2014] [error] [client 192.168.111.38] PHP Warning:  error_log(/var/www/phpcms/caches/error_log.php): failed to open stream: \xe6\x9d\x83\xe9\x99\x90\xe4\xb8\x8d\xe5\xa4\x9f in /var/www/phpcms/phpcms/libs/functions/global.func.php on line 464
+[Mon Sep 15 16:10:50 2014] [error] [client 192.168.111.38] PHP Warning:  error_log(/var/www/phpcms/caches/error_log.php): failed to open stream: \xe6\x9d\x83\xe9\x99\x90\xe4\xb8\x8d\xe5\xa4\x9f in /var/www/phpcms/phpcms/libs/functions/global.func.php on line 464
+[Mon Sep 15 16:10:50 2014] [error] [client 192.168.111.38] PHP Warning:  error_log(/var/www/phpcms/caches/error_log.php): failed to open stream: \xe6\x9d\x83\xe9\x99\x90\xe4\xb8\x8d\xe5\xa4\x9f in /var/www/phpcms/phpcms/libs/functions/global.func.php on line 464
+[Mon Sep 15 16:10:50 2014] [error] [client 192.168.111.38] PHP Warning:  error_log(/var/www/phpcms/caches/error_log.php): failed to open stream: \xe6\x9d\x83\xe9\x99\x90\xe4\xb8\x8d\xe5\xa4\x9f in /var/www/phpcms/phpcms/libs/functions/global.func.php on line 464
+[Mon Sep 15 16:10:50 2014] [error] [client 192.168.111.38] PHP Warning:  error_log(/var/www/phpcms/caches/error_log.php): failed to open stream: \xe6\x9d\x83\xe9\x99\x90\xe4\xb8\x8d\xe5\xa4\x9f in /var/www/phpcms/phpcms/libs/functions/global.func.php on line 464
+[Mon Sep 15 16:10:50 2014] [error] [client 192.168.111.38] PHP Warning:  error_log(/var/www/phpcms/caches/error_log.php): failed to open stream: \xe6\x9d\x83\xe9\x99\x90\xe4\xb8\x8d\xe5\xa4\x9f in /var/www/phpcms/phpcms/libs/functions/global.func.php on line 464
+[Mon Sep 15 16:10:50 2014] [error] [client 192.168.111.38] PHP Warning:  error_log(/var/www/phpcms/caches/error_log.php): failed to open stream: \xe6\x9d\x83\xe9\x99\x90\xe4\xb8\x8d\xe5\xa4\x9f in /var/www/phpcms/phpcms/libs/functions/global.func.php on line 464
+[Mon Sep 15 16:10:50 2014] [error] [client 192.168.111.38] PHP Warning:  error_log(/var/www/phpcms/caches/error_log.php): failed to open stream: \xe6\x9d\x83\xe9\x99\x90\xe4\xb8\x8d\xe5\xa4\x9f in /var/www/phpcms/phpcms/libs/functions/global.func.php on line 464
+[Mon Sep 15 16:10:50 2014] [error] [client 192.168.111.38] PHP Warning:  error_log(/var/www/phpcms/caches/error_log.php): failed to open stream: \xe6\x9d\x83\xe9\x99\x90\xe4\xb8\x8d\xe5\xa4\x9f in /var/www/phpcms/phpcms/libs/functions/global.func.php on line 464
+[Mon Sep 15 16:10:50 2014] [error] [client 192.168.111.38] PHP Warning:  error_log(/var/www/phpcms/caches/error_log.php): failed to open stream: \xe6\x9d\x83\xe9\x99\x90\xe4\xb8\x8d\xe5\xa4\x9f in /var/www/phpcms/phpcms/libs/functions/global.func.php on line 464
+[Mon Sep 15 16:10:50 2014] [error] [client 192.168.111.38] PHP Warning:  error_log(/var/www/phpcms/caches/error_log.php): failed to open stream: \xe6\x9d\x83\xe9\x99\x90\xe4\xb8\x8d\xe5\xa4\x9f in /var/www/phpcms/phpcms/libs/functions/global.func.php on line 464
+[Mon Sep 15 16:10:50 2014] [error] [client 192.168.111.38] PHP Warning:  error_log(/var/www/phpcms/caches/error_log.php): failed to open stream: \xe6\x9d\x83\xe9\x99\x90\xe4\xb8\x8d\xe5\xa4\x9f in /var/www/phpcms/phpcms/libs/functions/global.func.php on line 464
+[Mon Sep 15 16:10:50 2014] [error] [client 192.168.111.38] PHP Warning:  error_log(/var/www/phpcms/caches/error_log.php): failed to open stream: \xe6\x9d\x83\xe9\x99\x90\xe4\xb8\x8d\xe5\xa4\x9f in /var/www/phpcms/phpcms/libs/functions/global.func.php on line 464
+[Mon Sep 15 16:10:50 2014] [error] [client 192.168.111.38] PHP Warning:  error_log(/var/www/phpcms/caches/error_log.php): failed to open stream: \xe6\x9d\x83\xe9\x99\x90\xe4\xb8\x8d\xe5\xa4\x9f in /var/www/phpcms/phpcms/libs/functions/global.func.php on line 464
+[Mon Sep 15 16:10:50 2014] [error] [client 192.168.111.38] PHP Warning:  error_log(/var/www/phpcms/caches/error_log.php): failed to open stream: \xe6\x9d\x83\xe9\x99\x90\xe4\xb8\x8d\xe5\xa4\x9f in /var/www/phpcms/phpcms/libs/functions/global.func.php on line 464
+[Mon Sep 15 16:10:50 2014] [error] [client 192.168.111.38] PHP Warning:  error_log(/var/www/phpcms/caches/error_log.php): failed to open stream: \xe6\x9d\x83\xe9\x99\x90\xe4\xb8\x8d\xe5\xa4\x9f in /var/www/phpcms/phpcms/libs/functions/global.func.php on line 464
+[Mon Sep 15 16:10:50 2014] [error] [client 192.168.111.38] PHP Warning:  error_log(/var/www/phpcms/caches/error_log.php): failed to open stream: \xe6\x9d\x83\xe9\x99\x90\xe4\xb8\x8d\xe5\xa4\x9f in /var/www/phpcms/phpcms/libs/functions/global.func.php on line 464
+[Mon Sep 15 16:10:50 2014] [error] [client 192.168.111.38] PHP Warning:  error_log(/var/www/phpcms/caches/error_log.php): failed to open stream: \xe6\x9d\x83\xe9\x99\x90\xe4\xb8\x8d\xe5\xa4\x9f in /var/www/phpcms/phpcms/libs/functions/global.func.php on line 464
+[Mon Sep 15 16:10:50 2014] [error] [client 192.168.111.38] PHP Warning:  error_log(/var/www/phpcms/caches/error_log.php): failed to open stream: \xe6\x9d\x83\xe9\x99\x90\xe4\xb8\x8d\xe5\xa4\x9f in /var/www/phpcms/phpcms/libs/functions/global.func.php on line 464
+[Mon Sep 15 16:10:50 2014] [error] [client 192.168.111.38] PHP Warning:  error_log(/var/www/phpcms/caches/error_log.php): failed to open stream: \xe6\x9d\x83\xe9\x99\x90\xe4\xb8\x8d\xe5\xa4\x9f in /var/www/phpcms/phpcms/libs/functions/global.func.php on line 464
+[Mon Sep 15 16:10:50 2014] [error] [client 192.168.111.38] PHP Warning:  error_log(/var/www/phpcms/caches/error_log.php): failed to open stream: \xe6\x9d\x83\xe9\x99\x90\xe4\xb8\x8d\xe5\xa4\x9f in /var/www/phpcms/phpcms/libs/functions/global.func.php on line 464
+[Mon Sep 15 16:13:32 2014] [error] [client 192.168.111.38] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/phpcms/install/install.php on line 332, referer: http://shec01.hailiang.com:8008/install/install.php?
+[Mon Sep 15 16:13:33 2014] [error] [client 192.168.111.38] File does not exist: /var/www/phpcms/images, referer: http://shec01.hailiang.com:8008/install/install.php?
+[Mon Sep 15 16:13:34 2014] [error] [client 192.168.111.38] File does not exist: /var/www/phpcms/images, referer: http://shec01.hailiang.com:8008/install/install.php?
+[Mon Sep 15 16:13:34 2014] [error] [client 192.168.111.38] File does not exist: /var/www/phpcms/images, referer: http://shec01.hailiang.com:8008/install/install.php?
+[Mon Sep 15 16:13:34 2014] [error] [client 192.168.111.38] File does not exist: /var/www/phpcms/images, referer: http://shec01.hailiang.com:8008/install/install.php?
+[Mon Sep 15 16:13:34 2014] [error] [client 192.168.111.38] File does not exist: /var/www/phpcms/images, referer: http://shec01.hailiang.com:8008/install/install.php?
+[Mon Sep 15 16:13:34 2014] [error] [client 192.168.111.38] File does not exist: /var/www/phpcms/images, referer: http://shec01.hailiang.com:8008/install/install.php?
+[Mon Sep 15 16:13:34 2014] [error] [client 192.168.111.38] File does not exist: /var/www/phpcms/images, referer: http://shec01.hailiang.com:8008/install/install.php?
+[Mon Sep 15 16:13:34 2014] [error] [client 192.168.111.38] File does not exist: /var/www/phpcms/images, referer: http://shec01.hailiang.com:8008/install/install.php?
+[Mon Sep 15 16:14:28 2014] [error] [client 192.168.111.38] File does not exist: /var/www/phpcms/caches/poster_js/10.js, referer: http://shec01.hailiang.com:8008/
+[Mon Sep 15 16:14:28 2014] [error] [client 192.168.111.38] File does not exist: /var/www/phpcms/caches/poster_js/10.js, referer: http://shec01.hailiang.com:8008/
+[Mon Sep 15 16:15:07 2014] [error] [client 192.168.123.161] File does not exist: /var/www/phpcms/caches/poster_js/10.js, referer: http://shec01.hailiang.com:8008/
+[Mon Sep 15 16:15:20 2014] [error] [client 192.168.123.161] File does not exist: /var/www/phpcms/caches/poster_js/10.js, referer: http://shec01.hailiang.com:8008/
+[Mon Sep 15 16:26:24 2014] [error] [client 192.168.123.161] File does not exist: /var/www/phpcms/caches/poster_js/10.js, referer: http://shec01.hailiang.com:8008/
+[Mon Sep 15 16:26:29 2014] [error] [client 192.168.123.161] File does not exist: /var/www/phpcms/caches/poster_js/10.js, referer: http://shec01.hailiang.com:8008/
+[Mon Sep 15 16:26:58 2014] [error] [client 192.168.111.38] File does not exist: /var/www/phpcms/statics/images/v9/bg_member_1.gif, referer: http://shec01.hailiang.com:8008/statics/css/link.css
+[Mon Sep 15 16:27:15 2014] [error] [client 192.168.123.161] File does not exist: /var/www/phpcms/phpcms/web
+[Mon Sep 15 16:28:40 2014] [error] [client 192.168.111.38] File does not exist: /var/www/phpcms/web/h, referer: http://shec01.hailiang.com:8008/web/exposure.html
+[Mon Sep 15 17:30:03 2014] [error] [client 192.168.111.38] File does not exist: /var/www/phpcms/caches/poster_js/10.js, referer: http://shec01.hailiang.com:8008/
+[Mon Sep 15 17:30:03 2014] [error] [client 192.168.111.38] File does not exist: /var/www/phpcms/caches/poster_js/10.js, referer: http://shec01.hailiang.com:8008/
+[Mon Sep 15 17:31:50 2014] [error] [client 192.168.111.38] File does not exist: /var/www/phpcms/caches/poster_js/10.js, referer: http://shec01.hailiang.com:8008/
+[Mon Sep 15 17:31:50 2014] [error] [client 192.168.111.38] File does not exist: /var/www/phpcms/caches/poster_js/10.js, referer: http://shec01.hailiang.com:8008/
+[Wed Sep 17 11:11:45 2014] [error] [client 192.168.123.136] File does not exist: /var/www/phpcms/var
+[Wed Sep 17 11:12:32 2014] [error] [client 192.168.123.136] File does not exist: /var/www/phpcms/caches/poster_js/10.js, referer: http://shec01.hailiang.com:8008/
+[Wed Sep 17 11:12:39 2014] [error] [client 192.168.123.136] File does not exist: /var/www/phpcms/caches/poster_js/10.js, referer: http://shec01.hailiang.com:8008/
+[Wed Sep 17 11:12:41 2014] [error] [client 192.168.123.136] File does not exist: /var/www/phpcms/web/img/exposure.jpg, referer: http://shec01.hailiang.com:8008/web/exposure.html
+[Wed Sep 17 11:13:05 2014] [error] [client 192.168.123.136] File does not exist: /var/www/phpcms/wx/img/favicon.ico, referer: http://shec01.hailiang.com:8008/wx/index.html
+[Wed Sep 17 11:13:27 2014] [error] [client 192.168.113.238] File does not exist: /var/www/phpcms/wx/img/favicon.ico
+[Wed Sep 17 11:19:12 2014] [error] [client 192.168.123.136] File does not exist: /var/www/phpcms/caches/poster_js/10.js, referer: http://shec01.hailiang.com:8008/
+[Wed Sep 17 11:25:03 2014] [error] [client 192.168.113.238] File does not exist: /var/www/phpcms/caches/poster_js/10.js, referer: http://shec01.hailiang.com:8008/
+[Wed Sep 17 11:25:03 2014] [error] [client 192.168.113.238] File does not exist: /var/www/phpcms/caches/poster_js/10.js, referer: http://shec01.hailiang.com:8008/
+[Wed Sep 17 11:50:44 2014] [error] [client 192.168.113.226] File does not exist: /var/www/phpcms/wx/hiring_process.html, referer: http://shec01.hailiang.com:8008/wx/index.html
+[Wed Sep 17 11:51:34 2014] [error] [client 192.168.113.226] File does not exist: /var/www/phpcms/wx/recruitment.html, referer: http://shec01.hailiang.com:8008/wx/index.html
+[Wed Sep 17 11:51:36 2014] [error] [client 192.168.113.226] File does not exist: /var/www/phpcms/wx/recruitment.html, referer: http://shec01.hailiang.com:8008/wx/index.html
+[Wed Sep 17 11:54:11 2014] [error] [client 192.168.113.226] File does not exist: /var/www/phpcms/wx/resume.html, referer: http://shec01.hailiang.com:8008/wx/index.html
+[Wed Sep 17 16:43:31 2014] [error] [client 192.168.113.226] File does not exist: /var/www/phpcms/wx/qa.html, referer: http://shec01.hailiang.com:8008/wx/index.html
+[Thu Sep 18 17:58:48 2014] [error] [client 192.168.123.136] File does not exist: /var/www/phpcms/wx/qa.html, referer: http://shec01.hailiang.com:8008/wx/index.html
+[Thu Sep 18 18:00:19 2014] [error] [client 192.168.123.136] File does not exist: /var/www/phpcms/wx/qa.html, referer: http://shec01.hailiang.com:8008/wx/index.html
+[Fri Sep 19 10:47:20 2014] [error] [client 192.168.113.238] File does not exist: /var/www/phpcms/caches/poster_js/10.js, referer: http://shec01.hailiang.com:8008/
+[Fri Sep 19 10:47:20 2014] [error] [client 192.168.113.238] File does not exist: /var/www/phpcms/caches/poster_js/10.js, referer: http://shec01.hailiang.com:8008/
+[Fri Sep 19 10:55:51 2014] [error] [client 192.168.113.238] File does not exist: /var/www/phpcms/statics/js/web, referer: http://shec01.hailiang.com:8008/
+[Fri Sep 19 10:55:51 2014] [error] [client 192.168.113.238] File does not exist: /var/www/phpcms/statics/css/main.css, referer: http://shec01.hailiang.com:8008/
+[Fri Sep 19 10:55:52 2014] [error] [client 192.168.113.238] File does not exist: /var/www/phpcms/statics/images/img, referer: http://shec01.hailiang.com:8008/
+[Fri Sep 19 15:18:08 2014] [error] [client 192.168.123.136] File does not exist: /var/www/phpcms/wx/qa.html, referer: http://shec01.hailiang.com:8008/wx/index.html
+[Fri Sep 19 15:20:22 2014] [error] [client 192.168.123.136] File does not exist: /var/www/phpcms/wx/qa.html, referer: http://shec01.hailiang.com:8008/wx/policy.html
+[Fri Sep 19 15:44:02 2014] [error] [client 192.168.123.73] File does not exist: /var/www/phpcms/admin
+[Fri Sep 19 15:45:12 2014] [error] [client 192.168.123.73] File does not exist: /var/www/phpcms/admin.ph

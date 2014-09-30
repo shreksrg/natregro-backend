@@ -1,0 +1,26 @@
+<div class="footer">
+    <div class="leftbar">
+        
+        {pc:content action="lists" catid="30" num="25" order="id ASC" page="$page"}
+        {/pc}
+    
+        
+        <a class="wx" href="index.php?m=content&c=index&a=show&catid=30&id=14" target="_self">微信</a>
+        <a class="wb" href="#">微博</a>
+        <a class="app" href="index.php?m=content&c=index&a=show&catid=30&id=15" target="_self">手机App</a>
+        <a class="web" href="http://www.hailiang.com" target="_blank">海量集团官网</a>
+    </div>
+    <div class="rightbar">
+        
+        {pc:content action="category" catid="22" num="25" siteid="$siteid" order="listorder ASC"}
+        {/pc}
+        
+        {loop $data $r}
+        <a href="{$r[url]}" <?php if($_GET['catid'] === $r[catid]){ ?> class="cur" <?php } ?> >{$r[catname]}</a>
+        {/loop}
+        
+       
+        <span>沪ICP备08018881号    © 2003-2014 海亮集团有限公司 保留所有版权</span>
+    </div>
+</body>
+</html>
