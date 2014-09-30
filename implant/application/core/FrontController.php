@@ -1,6 +1,6 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-define('APP_URL', SITE_URL.'/implant');
+define('APP_URL', SITE_URL);
 define('WEB_PATH', SITE_URL);
 
 class FrontController extends CController

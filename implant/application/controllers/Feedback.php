@@ -2,7 +2,7 @@
 
 class Feedback extends FrontController
 {
-    protected $_modelInvite;
+    protected $_modelFeed;
 
     public function __construct()
     {
@@ -32,7 +32,7 @@ class Feedback extends FrontController
     {
         $ids = $this->input->post('id');
         if ($ids && is_array($ids)) {
-            $return = $this->_modelInvite->drop($ids);
+            $return = $this->_modelFeed->drop($ids);
             CAjax::result($return);
         }
     }

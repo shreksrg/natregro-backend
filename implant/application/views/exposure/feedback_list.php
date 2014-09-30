@@ -178,7 +178,7 @@ CView::show('layout/header_list1');
     }
     function confirm_delete() {
         if (confirm('确认删除吗？')) {
-            var url = '<?= APP_URL ?>/invite/drop';
+            var url = '<?= APP_URL ?>/feedback/drop';
             /*var ids = $('[name^=ids]:checked').each(function (e) {
              console.log(e.val());
              });*/

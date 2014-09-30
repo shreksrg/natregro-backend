@@ -15,7 +15,7 @@ if (!isset($_GET['m'])) {
 define('PHPCMS_PATH', dirname(__FILE__) . DIRECTORY_SEPARATOR);
 
 //define('SITE_URI', '/official/backend/');
-define('SITE_URI', '/');
+define('SITE_URI', '/implant/index.php/');
 include PHPCMS_PATH . '/phpcms/base.php';
 
 pc_base::creat_app();

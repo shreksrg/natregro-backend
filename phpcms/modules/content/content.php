@@ -41,15 +41,14 @@ class content extends admin
 
             //职位发布
             if ($catid == 11) {
-                header('location:' . SITE_URI . 'implant/invite');
+                header('location:' . SITE_URI . 'invite');
                 exit;
             }
 
+               
             //反馈投诉
             if ($catid == 32) {
-                echo SITE_URI;
-               // exit;
-                header('location:' . SITE_URI . 'implant/feedback');
+                header('location:' . SITE_URI . 'feedback');
                 exit;
             }
 
